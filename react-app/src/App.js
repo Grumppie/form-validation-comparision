@@ -82,6 +82,7 @@ const App = () => {
     <div className="container">
       <form id="form" className="form">
         <h2>Register With Us</h2>
+        <h4>REACT</h4>
         <div className="form-control">
           <label htmlFor="username">Username</label>
           <input type="text" id="username" placeholder="Enter Username"
